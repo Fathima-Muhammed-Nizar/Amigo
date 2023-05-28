@@ -1,2 +1,2 @@
 # Amigo
-Amigo:Simplifying the Complex,Your Trusted Guide to Clarity &amp; Understanding
+Amigo:Simplifying the Complex,Your Trusted Guide to Clarity & Understanding
