@@ -10,3 +10,4 @@ Instructions :
 3.Copy and run the  python code in a text editor and copy the url ,then paste it in a browser to run the application.
 
 Demo:
+<img width="960" alt="Screenshot 2023-05-28 230721" src="https://github.com/Fathima-Muhammed-Nizar/Amigo/assets/116722045/4aa99e14-d9a4-4258-852d-a147a330e57e">
